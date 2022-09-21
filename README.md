@@ -1,7 +1,7 @@
 ## Hola! 👋
 
 
-- #### <img title="sql" alt="sql" width="20px" src="https://github.com/Niconjp/Asset/blob/main/2.png"> SQL
+- #### <img title="sql" alt="sql" width="20px" src="https://github.com/Niconjp/Niconjp/blob/main/images/base.png"> SQL
   - **[Base de Datos de un Centro Medico Creado en SQL SERVER](https://github.com/Niconjp/SQL/blob/main/DBCentroMedico.sql)**
   - **[Ejercicios Query SQL en HackerRank](https://github.com/Niconjp/SQL/tree/main/HackerRank)**
   - **[Ejercicios Query SQL en Codewars](https://github.com/Niconjp/SQL/tree/main/Codewars)**
