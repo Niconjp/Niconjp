@@ -7,6 +7,8 @@
   - **[Ejercicios Query SQL en Codewars](https://github.com/Niconjp/SQL/tree/main/Codewars)**
 
 - #### <img title="powerbi" alt="powerbi" width="20px" src="https://github.com/Niconjp/Niconjp/blob/main/images/Power-BI.png"> Power Bi
+  - **[Projecto Pokemon](https://app.powerbi.com/view?r=eyJrIjoiMDY2MTQzMWEtN2ExYy00MWM5LTgwY2QtODcwNzE3OWUzYzhiIiwidCI6Ijc4MjcwMWEzLTVjZDItNDRkNi04NTYwLTYxOGQxNTg2N2UzYiJ9)**
+  Dashboard con información sobre pokémon desde la generación 1 hasta la generación 7 de videojuegos.
   - **[Projecto Tractchun](https://app.powerbi.com/view?r=eyJrIjoiYmE0ODhjZGYtMjYxNy00N2IxLTkwN2ItODRkNGY1MDAxY2ZmIiwidCI6Ijc4MjcwMWEzLTVjZDItNDRkNi04NTYwLTYxOGQxNTg2N2UzYiJ9)**
   Soporte de Tickets
   - **[Projecto Appol](https://app.powerbi.com/view?r=eyJrIjoiMzViY2E4YzAtNzQ5My00MGZkLTg4ZmQtM2FiODJmYTM4NTQ3IiwidCI6Ijc4MjcwMWEzLTVjZDItNDRkNi04NTYwLTYxOGQxNTg2N2UzYiJ9)**
